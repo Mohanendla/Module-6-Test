@@ -1,0 +1,40 @@
+*{
+    background-color: rgb(195, 241, 241);
+}
+
+
+body{
+    background-color: rgb(195, 241, 241);
+
+}
+
+#registration-form{
+            margin: 100px auto;
+            width: 700px;
+            padding: 10px;
+            height: auto;
+            border-radius: 10px;
+            color: black;
+            box-shadow: 0px 0px 10px black; 
+        
+ }
+
+ .submit-form{
+    text-align: center;
+ }
+
+
+ #country{
+    justify-content: center;
+    align-items: center;
+    padding-left:200px;
+    width: 500px;
+    text-align: center;
+ }
+
+
+ 
+ /* .valid-feedback, .invalid-feedback {
+    display: block;
+ }  */
+ 
